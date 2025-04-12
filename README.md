@@ -1,16 +1,48 @@
-## Hi there 👋
+<p align="center">
+  <img src="logo.png" alt="Kalfox Logo" width="150" />
+</p>
 
-<!--
-**ItsKalfox/ItsKalfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="banner.png" alt="Kalfox Banner" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🦊 ItsKalfox
+
+Hey there! I'm **Kalfox**, a passionate software engineer who blends clean code with a little fox-flavored flair. Whether I’m building sleek UIs, crafting powerful backend systems, or designing playful user experiences—I'm all about turning ideas into polished, purpose-driven products.
+
+---
+
+## 🧠 My Skills
+
+- 💻 **Languages:** Python, C, C#, HTML, CSS, JavaScript  
+- 🛠️ **Frameworks & Tools:** .NET, Visual Studio, Git, GitHub  
+- 🎨 **Focus Areas:** UI/UX, animations, creative user interaction
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+- **🖥️ FoxLoader** *(In Progress)*  
+  A customizable animated splash screen for Windows — loads your startup apps with style and speed!
+
+- **🌐 CarSpotterHub**  
+  A beautiful hard-coded car information site with a sleek UI.
+
+---
+
+## 🌟 My Vibe
+
+I’m a developer with a soft spot for originality and detail. I treat my code like art, and I believe personality should shine through every project — even if it’s just a splash screen ✨
+
+---
+
+## 📫 Let's Connect
+
+- 🐾 GitHub: [@ItsKalfox](https://github.com/ItsKalfox)
+- 🐦 Twitter/X: [@ItsKalfox](https://***) *(Coming Soon)*
+
+---
+
+### ⚡ “Stay clever. Code foxy.” 🦊
