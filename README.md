@@ -7,7 +7,7 @@
   <img src="logo.png" alt="Kalfox Logo" width="75" />
 </p>
 
-Hey there! I'm **Kalfox**, a passionate software engineer who blends clean code with a little fox-flavored flair. Whether I’m building sleek UIs, crafting powerful backend systems, or designing playful user experiences—I'm all about turning ideas into polished, purpose-driven products.
+Hey there! I'm **Kalfox**, a passionate software engineer who blends clean code with a little fox-flavored flair. Whether I’m building sleek UIs, crafting powerful backend systems, or designing playful user experiences. I'm all about turning ideas into polished, purpose-driven products.
 
 ---
 
