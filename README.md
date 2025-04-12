@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="logo.png" alt="Kalfox Logo" width="150" />
-</p>
-
-<p align="center">
   <img src="banner.png" alt="Kalfox Banner" width="100%" />
 </p>
 
 ---
+<p align="center">
+  <img src="logo.png" alt="Kalfox Logo" width="75" />
+</p>
 
 # 🦊 ItsKalfox
 
