@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Kalfox Banner" width="100%" />
+</p>
 ---
 <p align="left">
   <img src="logo.png" alt="Kalfox Logo" width="75" />
@@ -40,9 +43,6 @@ Hey there! I'm **Kalfox**, a passionate software engineer who blends clean code 
 I’m a developer with a soft spot for originality and detail. I treat my code like art, and I believe personality should shine through every project even if it’s just a splash screen. ✨
 
 ---
-<p align="center">
-  <img src="banner.png" alt="Kalfox Banner" width="100%" />
-</p>
 
 ## Projects I'm Proud Of
 
@@ -75,6 +75,7 @@ I’m a developer with a soft spot for originality and detail. I treat my code l
 
 - <img src="https://storage.googleapis.com/kalfoximg/github-original.png" width="14" alt="GitHub" /> GitHub: [ItsKalfox](https://github.com/ItsKalfox)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14" alt="LinkedIn" /> LinkedIn: [in/itskalfox](https://www.linkedin.com/in/itskalfox/)
+- <img src="https://storage.googleapis.com/kalfoximg/discord_logo.png" width="14" alt="Discord" /> LinkedIn: [@itskalfox](https://www.discord.com/users/764125655934959636/)
 - <img src="https://storage.googleapis.com/kalfoximg/x-logo.jpeg" width="14" alt="Twitter" /> Twitter/X: [@ItsKalfox](https://***) *(Coming Soon)*
 
 ---
