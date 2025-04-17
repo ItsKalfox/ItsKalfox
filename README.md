@@ -75,10 +75,12 @@ I’m a developer with a soft spot for originality and detail. I treat my code l
 
 ## Let's Connect
 
-- <img src="https://storage.googleapis.com/kalfoximg/github-original.png" width="14" alt="GitHub" /> GitHub: [ItsKalfox](https://github.com/ItsKalfox)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14" alt="LinkedIn" /> LinkedIn: [in/itskalfox](https://www.linkedin.com/in/itskalfox/)
-- <img src="https://storage.googleapis.com/kalfoximg/discord_logo.png" width="14" alt="Discord" /> LinkedIn: [@itskalfox](https://www.discord.com/users/764125655934959636/)
-- <img src="https://storage.googleapis.com/kalfoximg/x-logo.jpeg" width="14" alt="Twitter" /> Twitter/X: [@ItsKalfox](https://***) *(Coming Soon)*
+|||
+|---|---|
+| <img src="https://storage.googleapis.com/kalfoximg/github-original.png" width="14" alt="GitHub" /> GitHub | [ItsKalfox](https://github.com/ItsKalfox) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14" alt="LinkedIn" /> LinkedIn | [in/itskalfox](https://www.linkedin.com/in/itskalfox/) |
+| <img src="https://storage.googleapis.com/kalfoximg/discord_logo.png" width="14" alt="Discord" /> Discord | [@itskalfox](https://www.discord.com/users/764125655934959636/) |
+| <img src="https://storage.googleapis.com/kalfoximg/x-logo.jpeg" width="14" alt="Twitter" /> Twitter/X | [@ItsKalfox](https://***) *(Coming Soon)* |
 
 ---
 
