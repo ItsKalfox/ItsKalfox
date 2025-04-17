@@ -1,7 +1,9 @@
 <p align="center">
   <img src="banner.png" alt="Kalfox Banner" width="100%" />
 </p>
+
 ---
+
 <p align="left">
   <img src="logo.png" alt="Kalfox Logo" width="75" />
   <img src="tailcoded-logo.png" alt="TailCoded Logo" width="75" />
