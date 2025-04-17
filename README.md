@@ -57,8 +57,8 @@ I’m a developer with a soft spot for originality and detail. I treat my code l
 
 ## Let's Connect
 
-- <img src="https://storage.googleapis.com/kalfoximg/github-original.png" width="14" style="padding:5px;" alt="GitHub" /> GitHub/X: [@ItsKalfox](https://github.com/ItsKalfox)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14" style="padding:5px;" alt="LinkedIn" /> LinkedIn: [@ItsKalfox](https://www.linkedin.com/in/itskalfox/)
+- <img src="https://storage.googleapis.com/kalfoximg/github-original.png" width="14" style="padding:5px;" alt="GitHub" /> GitHub: [ItsKalfox](https://github.com/ItsKalfox)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14" style="padding:5px;" alt="LinkedIn" /> LinkedIn: [in/itskalfox](https://www.linkedin.com/in/itskalfox/)
 - <img src="https://storage.googleapis.com/kalfoximg/x-logo.jpeg" width="14" style="padding:5px;" alt="Twitter" /> Twitter/X: [@ItsKalfox](https://***) *(Coming Soon)*
 
 ---
