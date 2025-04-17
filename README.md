@@ -41,7 +41,6 @@ I’m a developer with a soft spot for originality and detail. I treat my code l
 <p align="center">
   <img src="banner.png" alt="Kalfox Banner" width="100%" />
 </p>
----
 
 ## Projects I'm Proud Of
 
