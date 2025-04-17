@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner2.png" alt="Kalfox Banner" width="100%" />
-</p>
-
 ---
 <p align="left">
   <img src="logo.png" alt="Kalfox Logo" width="75" />
@@ -35,8 +31,16 @@ Hey there! I'm **Kalfox**, a passionate software engineer who blends clean code 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" />
   <img src="https://storage.googleapis.com/kalfoximg/github-original.png" width="30" alt="GitHub" />
 
-- **Focus Areas:** UI/UX, animations, creative user interaction
+---
 
+## My Vibe
+
+I’m a developer with a soft spot for originality and detail. I treat my code like art, and I believe personality should shine through every project even if it’s just a splash screen. ✨
+
+---
+<p align="center">
+  <img src="banner2.png" alt="Kalfox Banner" width="100%" />
+</p>
 ---
 
 ## Projects I'm Proud Of
@@ -49,9 +53,20 @@ Hey there! I'm **Kalfox**, a passionate software engineer who blends clean code 
 
 ---
 
-## My Vibe
+## Currently Exploring
 
-I’m a developer with a soft spot for originality and detail. I treat my code like art, and I believe personality should shine through every project even if it’s just a splash screen. ✨
+- Remote administration & local networking for custom tools
+- Full-stack development with .NET (C#)
+- UI/UX animation enhancements for desktop experiences
+- Ethical hacking & cybersecurity fundamentals *(planning stage)*
+
+---
+
+## Open To
+
+- Collaboration on creative and UI-focused software projects
+- Frontend/backend freelance gigs
+- Beta testing unique apps/tools (especially foxy or furry-themed 🦊)
 
 ---
 
