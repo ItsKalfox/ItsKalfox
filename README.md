@@ -42,7 +42,7 @@ Hey there! I'm **Kalfox**, a passionate software engineer who blends clean code 
 ## Projects I'm Proud Of
 
 - **FoxLoader** *(In Progress)*  
-  A customizable animated splash screen for Windows — loads your startup apps with style and speed!
+  A customizable animated splash screen for Windows to hide desktop till system fully loads up.
 
 - **CarSpotterHub**  
   A beautiful hard-coded car information site with a sleek UI.
@@ -57,9 +57,9 @@ I’m a developer with a soft spot for originality and detail. I treat my code l
 
 ## Let's Connect
 
-- <img src="https://storage.googleapis.com/kalfoximg/github-original.png" width="14" style="padding:5px;" alt="GitHub" /> GitHub: [ItsKalfox](https://github.com/ItsKalfox)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14" style="padding:5px;" alt="LinkedIn" /> LinkedIn: [in/itskalfox](https://www.linkedin.com/in/itskalfox/)
-- <img src="https://storage.googleapis.com/kalfoximg/x-logo.jpeg" width="14" style="padding:5px;" alt="Twitter" /> Twitter/X: [@ItsKalfox](https://***) *(Coming Soon)*
+- <img src="https://storage.googleapis.com/kalfoximg/github-original.png" width="14" alt="GitHub" /> GitHub: [ItsKalfox](https://github.com/ItsKalfox)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14" alt="LinkedIn" /> LinkedIn: [in/itskalfox](https://www.linkedin.com/in/itskalfox/)
+- <img src="https://storage.googleapis.com/kalfoximg/x-logo.jpeg" width="14" alt="Twitter" /> Twitter/X: [@ItsKalfox](https://***) *(Coming Soon)*
 
 ---
 
