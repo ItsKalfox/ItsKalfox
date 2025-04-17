@@ -51,7 +51,7 @@ Hey there! I'm **Kalfox**, a passionate software engineer who blends clean code 
 
 ## My Vibe
 
-I’m a developer with a soft spot for originality and detail. I treat my code like art, and I believe personality should shine through every project — even if it’s just a splash screen ✨
+I’m a developer with a soft spot for originality and detail. I treat my code like art, and I believe personality should shine through every project even if it’s just a splash screen. ✨
 
 ---
 
