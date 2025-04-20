@@ -10,7 +10,9 @@
   <img src="https://storage.googleapis.com/kalfoximg/logos/channel_logo.png" alt="Channel Logo" width="75"/>
 </p>
 
-Hey there! I'm **Kalfox**, a passionate software engineer who blends clean code with a little fox-flavored flair. Whether I’m building sleek UIs, crafting powerful backend systems, or designing playful user experiences. I'm all about turning ideas into polished, purpose-driven products.
+I'm Kalfox, a dedicated software engineer who blends clean code with a little fox-flavored flair. My work spans across frontend design, backend development, and user-centric application architecture. I take pride in crafting solutions that are both efficient and thoughtfully designed.
+
+I'm also the founder of TailCoded, an independent software studio focused on developing innovative and refined digital products. TailCoded is my personal playground for delivering quality-driven software with a unique creative touch.
 
 ---
 
