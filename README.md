@@ -50,7 +50,7 @@ I’m a developer with a soft spot for originality and detail. I treat my code l
 
 ## Projects I'm Proud Of
 
-- **FoxLoader** *(In Progress)*  
+- **PreShellFX** *(In Progress)*  
   A customizable animated splash screen for Windows to hide desktop till system fully loads up.
 
 - **CarSpotterHub**  
