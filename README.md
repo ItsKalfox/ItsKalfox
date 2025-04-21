@@ -50,10 +50,10 @@ I’m a developer with a soft spot for originality and detail. I treat my code l
 
 ## Projects I'm Proud Of
 
-- **PreShellFX** *(In Progress)* [🔗](https://github.com/ItsKalfox/PreShellFX)  
+- **PreShellFX** *(In Progress)* [➜](https://github.com/ItsKalfox/PreShellFX)  
   A customizable animated splash screen for Windows to hide desktop till system fully loads up.
 
-- **CarSpotterHub** [🔗](https://github.com/ItsKalfox/CarSpotterHub)  
+- **CarSpotterHub** [➜](https://github.com/ItsKalfox/CarSpotterHub)  
   A beautiful hard-coded car information site with a sleek UI.
 
 ---
