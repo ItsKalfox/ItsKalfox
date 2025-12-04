@@ -5,7 +5,7 @@
 ---
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/ItsKalfox/ItsKalfox@commit/kalfox-logo.png" alt="Kalfox Logo" width="75" />
+  <img src="https://cdn.jsdelivr.net/gh/ItsKalfox/ItsKalfox/channels_logo.png" alt="Kalfox Logo" width="75" />
   <img src="https://storage.googleapis.com/kalfoximg/logos/tailcoded-logo.png" alt="TailCoded Logo" width="75" />
   <img src="https://storage.googleapis.com/kalfoximg/logos/channel_logo.png" alt="Channel Logo" width="75"/>
 </p>
