@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner3.png" alt="Kalfox Banner" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/ItsKalfox/ItsKalfox/banner3.png" alt="Kalfox Banner" width="100%" />
 </p>
 
 ---
@@ -38,6 +38,7 @@ I'm also the founder of TailCoded, an independent software studio focused on dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="27" alt="Anaconda" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="30" alt="Blender" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30" alt="Spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/ItsKalfox/ItsKalfox/github-logo.png" width="30" alt="GitHub" />
 
