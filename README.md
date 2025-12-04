@@ -5,9 +5,9 @@
 ---
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/ItsKalfox/ItsKalfox/channels_logo.png" alt="Kalfox Logo" width="75" />
-  <img src="https://storage.googleapis.com/kalfoximg/logos/tailcoded-logo.png" alt="TailCoded Logo" width="75" />
-  <img src="https://storage.googleapis.com/kalfoximg/logos/channel_logo.png" alt="Channel Logo" width="75"/>
+  <img src="https://cdn.jsdelivr.net/gh/ItsKalfox/ItsKalfox/logo.png" alt="Kalfox Logo" width="75" />
+  <img src="https://cdn.jsdelivr.net/gh/ItsKalfox/ItsKalfox/tailcoded-logo.png" alt="TailCoded Logo" width="75" />
+  <img src="https://cdn.jsdelivr.net/gh/ItsKalfox/ItsKalfox/channels_logo.png" alt="Channel Logo" width="75"/>
 </p>
 
 Hey there! I'm Kalfox, a dedicated software engineer who blends clean code with a little fox-flavored flair. My work spans across frontend design, backend development, and user-centric application architecture.
@@ -21,7 +21,7 @@ I'm also the founder of TailCoded, an independent software studio focused on dev
 - **Languages:**
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/ItsKalfox/ItsKalfox/c-logo.png" width="30" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" />
@@ -29,6 +29,7 @@ I'm also the founder of TailCoded, an independent software studio focused on dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="27" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="MySQL" />
 
 - **Frameworks & Tools:**
 
@@ -38,7 +39,7 @@ I'm also the founder of TailCoded, an independent software studio focused on dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="30" alt="Blender" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" />
-  <img src="https://storage.googleapis.com/kalfoximg/github-original.png" width="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/ItsKalfox/ItsKalfox/github-logo.png" width="30" alt="GitHub" />
 
 ---
 
@@ -79,10 +80,10 @@ I’m a developer with a soft spot for originality and detail. I treat my code l
 
 |||
 |---|---|
-| <img src="https://storage.googleapis.com/kalfoximg/github-original.png" width="14" alt="GitHub" /> GitHub | [ItsKalfox](https://github.com/ItsKalfox) |
+| <img src="https://cdn.jsdelivr.net/gh/ItsKalfox/ItsKalfox/github-logo.png" width="14" alt="GitHub" /> GitHub | [ItsKalfox](https://github.com/ItsKalfox) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14" alt="LinkedIn" /> LinkedIn | [in/ItsKalfox](https://www.linkedin.com/in/ItsKalfox/) |
-| <img src="https://storage.googleapis.com/kalfoximg/discord_logo.png" width="14" alt="Discord" /> Discord | [@itskalfox](https://www.discord.com/users/764125655934959636/) |
-| <img src="https://storage.googleapis.com/kalfoximg/x-logo.jpeg" width="14" alt="Twitter" /> Twitter/X | [@ItsKalfox](https://***) *(Coming Soon)* |
+| <img src="https://cdn.jsdelivr.net/gh/ItsKalfox/ItsKalfox/discord-logo.png" width="14" alt="Discord" /> Discord | [@itskalfox](https://www.discord.com/users/764125655934959636/) |
+| <img src="https://cdn.jsdelivr.net/gh/ItsKalfox/ItsKalfox/x-logo.png" width="14" alt="Twitter" /> Twitter/X | [@ItsKalfox](https://***) *(Coming Soon)* |
 
 ---
 
